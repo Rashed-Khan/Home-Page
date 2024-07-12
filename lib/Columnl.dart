@@ -11,7 +11,7 @@ class Columnl extends StatelessWidget {
         child: Column(
           children: [
             ListTile(
-              title: Text('I must be a developer of Bangladeshgi bangladeshi'),
+              title: Text('I must be a developer of Bangladeshgi '),
             ),
             Container(
               height: 310,
