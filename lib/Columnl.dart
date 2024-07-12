@@ -11,7 +11,7 @@ class Columnl extends StatelessWidget {
         child: Column(
           children: [
             ListTile(
-              title: Text('I must be a developer'),
+              title: Text('I must be a developer of Bangladeshgit commit -m "first commit"'),
             ),
             Container(
               height: 310,
