@@ -7,7 +7,7 @@ class Rowl extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Practice Example'),
+        title: Text(' Flutter Practice Example'),
       ),
       body: Center(
         child: Column(
